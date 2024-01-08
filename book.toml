@@ -1,7 +1,7 @@
 [book]
 authors = ["Starknet Community with support from Starkware and the Starknet Foundation"]
 language = "en"
-multilingual = false
+multilingual = true
 src = "src"
 title = "The Starknet Book"
 
